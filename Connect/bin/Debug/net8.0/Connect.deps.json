@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Connect/1.0.0": {
+        "dependencies": {
+          "ConnectLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Connect.dll": {}
+        }
+      },
+      "ConnectLibrary/1.0.0": {
+        "runtime": {
+          "ConnectLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Connect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ConnectLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

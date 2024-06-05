@@ -1,0 +1,11 @@
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/bin/Debug/net8.0/ConnectLibrary.deps.json
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/bin/Debug/net8.0/ConnectLibrary.dll
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/bin/Debug/net8.0/ConnectLibrary.pdb
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/obj/Debug/net8.0/ConnectLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/obj/Debug/net8.0/ConnectLibrary.AssemblyInfoInputs.cache
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/obj/Debug/net8.0/ConnectLibrary.AssemblyInfo.cs
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/obj/Debug/net8.0/ConnectLibrary.csproj.CoreCompileInputs.cache
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/obj/Debug/net8.0/ConnectLibrary.dll
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/obj/Debug/net8.0/refint/ConnectLibrary.dll
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/obj/Debug/net8.0/ConnectLibrary.pdb
+/home/mafra/Teste/ConnectNetwork/ConnectLibrary/obj/Debug/net8.0/ref/ConnectLibrary.dll
